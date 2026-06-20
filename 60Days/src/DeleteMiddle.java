@@ -1,9 +1,9 @@
- class ListNode {
+ class ListNode2 {
      int val;
       ListNode next;
-      ListNode() {}
-      ListNode(int val) { this.val = val; }
-      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+      ListNode2() {}
+      ListNode2(int val) { this.val = val; }
+      ListNode2(int val, ListNode next) { this.val = val; this.next = next; }
   }
 public class DeleteMiddle {
     public ListNode deleteMiddle(ListNode head) {
