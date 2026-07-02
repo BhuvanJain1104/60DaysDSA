@@ -1,0 +1,17 @@
+public class convertToTitle {
+    public static String convert(int columnNumber) {
+        StringBuilder result=new StringBuilder();
+        while (columnNumber>0){
+            columnNumber--;
+            int rem=columnNumber%26;
+            char ch=(char)('A'+rem);
+            result.append(ch);
+            columnNumber=columnNumber/26;
+        }
+        return result.reverse().toString();
+    }
+
+    static void main(String[] args) {
+        System.out.println(convert(57));
+    }
+}
