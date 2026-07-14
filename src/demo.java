@@ -39,7 +39,32 @@ public class demo {
         }
         return n%10 * productofDigits(n/10);
     }
+    static String removeCharacter(String input, String output) {
 
+        if (input.isEmpty()) {
+            return output;
+        }
+
+        char ch = input.charAt(0);
+
+        if (ch != 'a') {
+            output += ch;
+        }
+
+        return removeCharacter(input.substring(1), output);
+    }
+    static String skipString(String input) {
+
+        if (input.isEmpty()) {
+            return "";
+        }
+
+        if (input.startsWith("apple")) {
+            return skipString(input.substring(5));
+        }
+
+        return input.charAt(0) + skipString(input.substring(1));
+    }
 
 
     static void main(String[] args) {
