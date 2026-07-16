@@ -7,12 +7,14 @@ I was doing DSA
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0070-climbing-stairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -29,4 +31,8 @@ I was doing DSA
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0063-unique-paths-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
