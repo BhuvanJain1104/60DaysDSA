@@ -57,9 +57,18 @@ I was doing DSA
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
