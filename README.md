@@ -18,6 +18,7 @@ I was doing DSA
 | [0063-unique-paths-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0518-coin-change-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -33,6 +34,7 @@ I was doing DSA
 | [0055-jump-game](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0063-unique-paths-ii) |
 | [0322-coin-change](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0518-coin-change-ii) |
 | [0875-koko-eating-bananas](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
