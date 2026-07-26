@@ -8,6 +8,7 @@ I was doing DSA
 | ------- |
 | [0062-unique-paths](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -36,6 +37,7 @@ I was doing DSA
 | [0063-unique-paths-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0063-unique-paths-ii) |
 | [0322-coin-change](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0518-coin-change-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -60,6 +62,7 @@ I was doing DSA
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
