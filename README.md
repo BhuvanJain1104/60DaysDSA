@@ -41,6 +41,7 @@ I was doing DSA
 | [0875-koko-eating-bananas](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -63,6 +64,7 @@ I was doing DSA
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -94,4 +96,8 @@ I was doing DSA
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
