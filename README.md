@@ -34,6 +34,7 @@ I was doing DSA
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0063-unique-paths-ii) |
 | [0322-coin-change](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0518-coin-change-ii) |
@@ -63,6 +64,7 @@ I was doing DSA
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
