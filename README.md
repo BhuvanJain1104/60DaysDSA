@@ -9,6 +9,7 @@ I was doing DSA
 | [0062-unique-paths](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -57,6 +58,7 @@ I was doing DSA
 | ------- |
 | [0055-jump-game](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +86,7 @@ I was doing DSA
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
