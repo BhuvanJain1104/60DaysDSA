@@ -89,6 +89,7 @@ I was doing DSA
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2942-find-words-containing-character) |
@@ -120,6 +121,7 @@ I was doing DSA
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0771-jewels-and-stones) |
 | [3731-find-missing-elements](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
