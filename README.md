@@ -45,6 +45,7 @@ I was doing DSA
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2942-find-words-containing-character](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2942-find-words-containing-character) |
 | [3731-find-missing-elements](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3731-find-missing-elements) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -90,6 +91,7 @@ I was doing DSA
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2390-removing-stars-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
