@@ -37,6 +37,7 @@ I was doing DSA
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0056-merge-intervals) |
@@ -72,6 +73,7 @@ I was doing DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
