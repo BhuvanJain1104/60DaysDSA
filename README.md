@@ -8,6 +8,7 @@ I was doing DSA
 | ------- |
 | [0009-palindrome-number](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -42,6 +43,7 @@ I was doing DSA
 | [0055-jump-game](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0162-find-peak-element) |
 | [0322-coin-change](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0518-coin-change-ii) |
