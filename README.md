@@ -45,6 +45,7 @@ I was doing DSA
 | [0063-unique-paths-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -82,6 +83,7 @@ I was doing DSA
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -136,6 +138,7 @@ I was doing DSA
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0771-jewels-and-stones) |
 | [3731-find-missing-elements](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3731-find-missing-elements) |
 ## Enumeration
