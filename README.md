@@ -44,6 +44,7 @@ I was doing DSA
 | [0056-merge-intervals](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0322-coin-change) |
@@ -117,6 +118,7 @@ I was doing DSA
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0875-koko-eating-bananas) |
