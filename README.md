@@ -36,6 +36,7 @@ I was doing DSA
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0063-unique-paths-ii) |
@@ -105,6 +106,7 @@ I was doing DSA
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
