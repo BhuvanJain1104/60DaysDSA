@@ -6,6 +6,7 @@ I was doing DSA
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0628-maximum-product-of-three-numbers) |
