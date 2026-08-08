@@ -9,6 +9,7 @@ I was doing DSA
 | [0062-unique-paths](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -44,6 +45,7 @@ I was doing DSA
 | [0875-koko-eating-bananas](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2942-find-words-containing-character) |
 | [3731-find-missing-elements](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3731-find-missing-elements) |
