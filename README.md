@@ -12,6 +12,7 @@ I was doing DSA
 | [0070-climbing-stairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1510-stone-game-iv](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3516-find-closest-person) |
@@ -27,6 +28,7 @@ I was doing DSA
 | [0070-climbing-stairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0518-coin-change-ii) |
+| [1510-stone-game-iv](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1510-stone-game-iv) |
 ## Combinatorics
 |  |
 | ------- |
@@ -159,4 +161,24 @@ I was doing DSA
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1095-find-in-mountain-array) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
