@@ -60,6 +60,7 @@ I was doing DSA
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2942-find-words-containing-character](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2942-find-words-containing-character) |
 | [3731-find-missing-elements](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3731-find-missing-elements) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -78,6 +79,7 @@ I was doing DSA
 | ------- |
 | [0055-jump-game](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
