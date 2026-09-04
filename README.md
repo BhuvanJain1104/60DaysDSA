@@ -65,6 +65,7 @@ I was doing DSA
 | [3731-find-missing-elements](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3731-find-missing-elements) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
@@ -183,4 +184,8 @@ I was doing DSA
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1510-stone-game-iv) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
