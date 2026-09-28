@@ -113,6 +113,7 @@ I was doing DSA
 | ------- |
 | [0771-jewels-and-stones](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -121,6 +122,7 @@ I was doing DSA
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
@@ -188,4 +190,8 @@ I was doing DSA
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/3903-smallest-stable-index-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
