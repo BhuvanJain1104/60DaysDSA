@@ -113,6 +113,7 @@ I was doing DSA
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2390-removing-stars-from-a-string) |
@@ -122,6 +123,7 @@ I was doing DSA
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/2390-removing-stars-from-a-string) |
@@ -194,6 +196,7 @@ I was doing DSA
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhuvanJain1104/60DaysDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
